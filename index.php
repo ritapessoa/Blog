@@ -1,3 +1,4 @@
+<!-- Inclusão do cabeçalho -->
 <?php
     include_once("templates/header.php");
     //print_r($posts);
@@ -25,6 +26,7 @@
       <?php endforeach; ?>
     </div>
   </main>
+<!-- Inclusão do rodapé -->
 <?php
   include_once("templates/footer.php")
 ?>
