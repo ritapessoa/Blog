@@ -1,3 +1,4 @@
+<!-- Inclusão do cabeçalho -->
 <?php
 include_once("templates/header.php");
 
@@ -49,7 +50,7 @@ if (isset($_GET['id'])) {
     </aside>
 </main>
 <h1><?php echo $currentPost['title'] ?></h1>
-
+<!-- Inclusão do rodapé -->
 <?php
 include_once("templates/footer.php")
 ?>
