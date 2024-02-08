@@ -1,2 +1,2 @@
-# Blog-responsivo
+# Blog
 Blog responsivo 
